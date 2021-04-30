@@ -1,12 +1,12 @@
-# Nested Arrays Lab
+# Nested Arrays
 
 ## Learning Goals
 
-1. Recognize vocabulary term: "array of array" or ("AoA")
-2. Recognize that "arrays of arrays" are grids or coordinate systems
-3. Create a nested `Array`
-4. Read scalar data from an array of arrays
-5. Modify scalar data in an array of arrays
+- Recognize vocabulary term: "array of array" or ("AoA")
+- Recognize that "arrays of arrays" are grids or coordinate systems
+- Create a nested `Array`
+- Read scalar data from an array of arrays
+- Modify scalar data in an array of arrays
 
 ## Introduction
 
@@ -204,7 +204,7 @@ spice_rack[1][1] #=> "Cumin"
 
 ## Lab
 
-Time to apply our knowledgeo of the `Array` of `Array`s nested data structure.
+Time to apply our knowledge of the `Array` of `Array`s nested data structure.
 
 Take a look at `lib/nested_array.rb` and complete the provided methods. Your
 task is to nest two arrays within another array, as well as to access and
